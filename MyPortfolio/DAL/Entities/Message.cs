@@ -1,4 +1,4 @@
-﻿namespace MyPortolioUdemy.DAL.Entities
+﻿namespace MyPortolio.DAL.Entities
 {
     public class Message
     {

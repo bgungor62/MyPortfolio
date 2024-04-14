@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using MyPortolioUdemy.DAL.Entities;
+using MyPortolio.DAL.Entities;
 
 namespace MyPortfolio.DAL.Context
 {

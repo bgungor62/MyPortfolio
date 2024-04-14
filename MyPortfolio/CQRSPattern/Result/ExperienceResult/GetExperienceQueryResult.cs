@@ -1,8 +1,7 @@
-﻿namespace MyPortolio.DAL.Entities
+﻿namespace MyPortfolio.CQRSPattern.Result.ExperienceResult
 {
-    public class Experience
+    public class GetExperienceQueryResult
     {
-        public int ExperienceId { get; set; }
         public string Head { get; set; }
         public string Title { get; set; }
         public string Date { get; set; }
